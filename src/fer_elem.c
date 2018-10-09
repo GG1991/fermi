@@ -1,6 +1,6 @@
 /* Assembly functions */
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int ferelem_ABM(int e)
 {

@@ -1,6 +1,6 @@
 /* Solves the linear sistem of equations*/
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int fersolv_ST(void)
 {

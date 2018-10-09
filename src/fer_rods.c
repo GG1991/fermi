@@ -1,6 +1,6 @@
 /* Rutines for calculating control rods movements*/
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int ferirods(void)
 {

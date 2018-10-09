@@ -5,7 +5,7 @@
 */
 
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int main(int argc,char **argv)
 {

@@ -1,4 +1,4 @@
-#include "fermi.h"
+#include "fermi_o.h"
 
 /*************************************************************/
 int fer_norm(void)

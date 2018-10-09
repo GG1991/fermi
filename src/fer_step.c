@@ -8,7 +8,7 @@
 
 */
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int ferstep_ST(void)
 {

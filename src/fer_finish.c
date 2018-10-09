@@ -1,6 +1,6 @@
 /* frees all the memory */
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int ferfini(void)
 {

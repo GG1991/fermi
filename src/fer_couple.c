@@ -11,7 +11,7 @@ Guido Giuntoli   (guido.giuntoli@bsc.es)
 */
 
 #include "mpi.h"
-#include "fermi.h"
+#include "fermi_o.h"
 
 
 int fer_comm_step(int order)

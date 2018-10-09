@@ -9,7 +9,7 @@
 
 */
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int ferinit(int argc,char **argv)
 {

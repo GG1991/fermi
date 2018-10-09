@@ -16,7 +16,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "fermi.h"
+#include "fermi_o.h"
 #include "global.h"
 #include "list.h"
 #include "gmsh.h"

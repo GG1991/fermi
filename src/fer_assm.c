@@ -1,6 +1,6 @@
 /* Rutines for assembly K matrix */
 
-#include "fermi.h"
+#include "fermi_o.h"
 
 int ferass_TR(int step)
 {
